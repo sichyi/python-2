@@ -24,7 +24,7 @@ class Employee:
     #setter
     @first_name.setter # the settler allows you to "set"values
     def first_name(self, newName):
-        self._first_name = newName
+        self._first_name = newLName
     @last_name.setter 
     def last_name(self, newLName):
         self._last_name = newLName
